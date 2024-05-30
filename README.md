@@ -5,5 +5,5 @@
 ## 📚 Academic Background
 - **Electrical Engineering** - State University of Maringá (UEM), 2016
 - **Master's in Chemical Engineering** - State University of Maringá (UEM), 2019
-- **PhD in Chemical Engineering** - State University of Maringá (UEM), 2024
+- **PhD in Chemical Engineering** - State University of Maringá (UEM)
 - **Artificial Intelligence Residency** - SENAI, 2024
