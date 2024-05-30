@@ -10,6 +10,7 @@ My PhD research, titled "Tuning of Fractional Controllers for Systems with Time 
 - **PhD in Chemical Engineering** - State University of Maringá (UEM)
 - **Artificial Intelligence Residency** - SENAI, 2024
 
-## 📫 How to Reach Me
-## Email: koiti.sassaki@gmail.com
-## LinkedIn: Guilherme Sassaki
+📫 How to Reach Me
+Email: koiti.sassaki@gmail.com
+LinkedIn: Guilherme Sassaki
+
