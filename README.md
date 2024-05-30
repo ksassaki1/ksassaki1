@@ -4,6 +4,8 @@
 
 My PhD research, titled "Tuning of Fractional Controllers for Systems with Time Delay Using Metaheuristic Optimization Algorithms," explores the development and application of fractional Proportional-Integral-Derivative (PID) controllers to enhance the efficiency and stability of systems with significant delays. Using Particle Swarm Optimization (PSO) and Differential Evolution (DE), my work aims to optimize controller parameters, providing robust strategies for managing delays in control systems.
 
+In my residency at SENAI, I am developing skills in data mining, implementing machine learning models, and computer vision, enhancing my expertise in these cutting-edge technologies.
+
 ## 📚 Academic Background
 - **Electrical Engineering** - State University of Maringá (UEM), 2016
 - **Master's in Chemical Engineering** - State University of Maringá (UEM), 2019
