@@ -11,5 +11,5 @@ My PhD research, titled "Tuning of Fractional Controllers for Systems with Time 
 - **Artificial Intelligence Residency** - SENAI, 2024
 
 ## 📫 How to Reach Me
-Email: koiti.sassaki@gmail.com
-LinkedIn: Guilherme Sassaki
+## Email: koiti.sassaki@gmail.com
+## LinkedIn: Guilherme Sassaki
