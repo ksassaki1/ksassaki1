@@ -18,7 +18,7 @@ My residency in Artificial Intelligence at the SENAI Londrina AI HUB, in partner
 
 
 <p align="left">
-  💼 Contatact: ⤵️
+  💼 Contact: ⤵️
 </p>
 
 <p align="left">
