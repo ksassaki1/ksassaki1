@@ -9,7 +9,7 @@ My PhD research, titled "Tuning of Fractional Controllers for Systems with Time 
 
 My residency in Artificial Intelligence at the SENAI Londrina AI HUB, in partnership with UTFPR, has been essential for deepening my knowledge in machine learning and computer vision. During this residency, I have had the opportunity to develop multiple projects from real companies, addressing challenges involving programming (Python), data analysis, AI model implementation, and computer vision.
 
-Additionally, I am currently pursuing a professional master’s degree in Artificial Intelligence at the Federal University of Technology – Paraná (UTFPR), campus Cornélio Procópio, further expanding my skills and knowledge in technology and innovation.
+Additionally, I am currently pursuing a professional master’s degree in Artificial Intelligence at UTFPR – Paraná, campus Cornélio Procópio, further expanding my skills and knowledge in technology and innovation.
 
 ## 📚 Academic Background
 - **Electrical Engineering** - State University of Maringá (UEM), 2016
