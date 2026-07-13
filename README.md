@@ -20,7 +20,7 @@ My current technical focus includes **Python, Azure AI Foundry, Azure AI Search,
 
 My doctoral research focused on the tuning of fractional-order PID controllers for time-delay systems using metaheuristic optimization algorithms, particularly **Particle Swarm Optimization (PSO)** and **Differential Evolution (DE)**. This work strengthened my background in mathematical modeling, optimization, control systems, and applied research.
 
-I also completed an Artificial Intelligence residency at the **SENAI Londrina AI HUB**, in partnership with **UTFPR**, where I worked on real-world industry projects involving machine learning, data analysis, Python development, AI model implementation, and computer vision.
+I also completed a postgraduate specialization in Artificial Intelligence at UNISENAI, where I worked on real-world industry projects involving machine learning, data analysis, Python development, AI model implementation, and computer vision.
 
 <br clear="right"/>
 
